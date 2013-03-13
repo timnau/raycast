@@ -1,0 +1,6 @@
+            v_sub(position, origin, position);  <== v_add(origin, position, position);
+            v_sub(position, origin, position);
+
+
+        float t1 = (-b + discriminant)/2/a;
+        float t2 = (-b - discriminant)/2/a;
